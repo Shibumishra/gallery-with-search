@@ -202,4 +202,14 @@ input:focus {
     padding-left: 8px;
     padding-right: 8px;
   }
+  .nav-bar ul{
+    display: block;
+  }
+  .nav-bar li{
+    width: 94%;
+  }
+  .img-wrap{
+    width: 100%;
+    margin: 8px 15px !important;
+  }
 }
